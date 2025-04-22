@@ -14,6 +14,8 @@ Ferramenta de segurança para testes de vulnerabilidades em sites e serviços.
 
 - Verificação de HTTPS/TLS.
 
+- ... 
+
 # Como Usar
 Clone o repositório.
 
