@@ -19,4 +19,4 @@ Clone o repositório.
 
 Instale as dependências: pip install requests colorama.
 
-Execute o script: python nsc_test_tool.py.
+Execute o script: python nsc_ops.py.
