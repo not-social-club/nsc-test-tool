@@ -203,7 +203,7 @@ def main():
         elif opcao == '6':
             check_https_tls()
         elif opcao == '7':
-            print(Fore.CYAN + "\nSaindo... Até a próxima missão NSC.")
+            print(Fore.CYAN + "\nSaindo...")
             break
         else:
             print(Fore.RED + "[x] Opção inválida.")
